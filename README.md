@@ -5,7 +5,7 @@ This repository contains the presentation materials and examples for the Quantum
 
 [How to download and use the VirtualBox in Windows for the Workshop]()
 
-[Diskimage file for VirtualBox]()
+[Diskimage file for VirtualBox](https://mega.nz/file/TpA1xCzJ#Br8XpHma2kKEbOckCPpMSEqHJl6e_srIGqxFlCBNbkY)
 
 [Linux Basic commands and Vi editor tutorial video]()
 
