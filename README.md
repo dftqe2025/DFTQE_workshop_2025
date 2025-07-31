@@ -5,9 +5,11 @@ This repository contains the presentation materials and examples for the Quantum
 
 [How to download and use the VirtualBox in Windows for the Workshop]()
 
+[Diskimage file for VirtualBox]()
+
 [Linux Basic commands and Vi editor tutorial video]()
 
-[Density Functional Theory study materials]()
+[Density Functional Theory (DFT) study materials]()
 
 ### Workshop Schedule (19 - 23 August 2025)
 - Day 1 (19 August 2025):
