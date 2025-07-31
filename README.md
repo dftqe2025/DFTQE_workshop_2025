@@ -17,4 +17,4 @@ This repository contains the presentation materials and examples for the Quantum
 
 - Day 2 (20 August 2025):
   - Session 1 – Generating the Quantum ESPRESSO input file using Crystallographic Information File
-  - Session 2 – Understanding the ground state total energy of a Hydrogen atom using Quantum ESPRESSO
+  - Session 2 – Hands-On: Understanding the ground state total energy of a Hydrogen atom using Quantum ESPRESSO
