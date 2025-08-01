@@ -7,7 +7,7 @@ This repository contains the presentation materials and examples for the Quantum
 
 [Diskimage file for VirtualBox](https://mega.nz/file/TpA1xCzJ#Br8XpHma2kKEbOckCPpMSEqHJl6e_srIGqxFlCBNbkY)
 
-[Linux Basic commands and Vi editor tutorial video](https://drive.google.com/drive/folders/16ahRD4TEEhT6rrWYy3UPvN41A-5eHAY7?usp=sharing)
+[Linux Basic commands and Vi editor tutorial pdf](https://drive.google.com/drive/folders/16ahRD4TEEhT6rrWYy3UPvN41A-5eHAY7?usp=sharing)
 
 [Density Functional Theory (DFT) study materials](https://drive.google.com/drive/folders/1JuBLd0loCA0MSco1pVWgzpeckkTBrIB_?usp=drive_link)
 
