@@ -9,11 +9,11 @@ This repository contains the presentation materials and examples for the Quantum
 
 [Linux Basic commands and Vi editor tutorial video]()
 
-[Density Functional Theory (DFT) study materials]()
+[Density Functional Theory (DFT) study materials](https://drive.google.com/drive/folders/1JuBLd0loCA0MSco1pVWgzpeckkTBrIB_?usp=drive_link)
 
 ### Workshop Schedule (19 - 23 August 2025)
 - Day 1 (19 August 2025):
-  - Session 1 – Introduction to DFT and Kickstart
+  - Session 1 – Introduction to DFT
   - Session 2 – Overview on Quantum ESPRESSO Software
   - Session 3 – Hands-On: Installation and Environment Setup
 
