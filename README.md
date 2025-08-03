@@ -43,3 +43,6 @@ This repository contains the presentation materials and examples for the Quantum
 - Day 7 (30.09.25)
   - Session 1 - Building a layered structure from bulk using VESTA software
   - Session 2 - Electronic band structure calculation of V2C MXene structure
+
+*10-minute break between two sessions
+*Last 10 minutes for Q & A session (each day)
