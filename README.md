@@ -3,7 +3,7 @@ This repository contains the presentation materials and examples for the Quantum
 
 [Google form registration link for the workshop](https://docs.google.com/forms/d/e/1FAIpQLSc1PQqfTjqUjcoTcwTGaOynNFuzl7nsP3omJHTHCJo9tKQuTw/viewform?usp=header)
 
-[Detailed Brochure]()
+[Detailed Brochure](https://drive.google.com/file/d/1wMmwamAx4XjSY7dE9cWb0L-jZLjIl9yL/view?usp=drive_link)
 
 [How to download and use the VirtualBox in Windows for the Workshop]()
 
